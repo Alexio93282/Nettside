@@ -1,0 +1,23 @@
+img{
+            width:30%;
+            height:500px;
+        }
+        
+        body{
+            background-color: #ffffff;
+        }
+        .Bilde-div{
+            display: flex;
+            flex-direction: row-reverse;
+            justify-content: center;
+        }
+.overtext{
+    text-align: center;
+    font-size: xx-large;
+  
+}
+.Bilde-div{
+    display: flex;
+
+}
+
