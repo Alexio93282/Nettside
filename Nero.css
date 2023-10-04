@@ -1,0 +1,25 @@
+body{
+    background-color: #000000;
+    background-image:url(Img/Nero\ backround.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+  background-size: 100% 100%;
+  
+}
+.NInfo{
+    font-size: xx-large;
+    text-align: center;
+    background-color: #000000;
+}
+
+.column_middle{
+    font-size:xx-large ;
+    text-align: center;
+}
+
+.gethome{
+   display: flex;
+   
+    float: left;
+}
