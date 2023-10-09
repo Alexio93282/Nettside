@@ -1,0 +1,25 @@
+body{
+    background-color: #000000;
+    background-image:url(Img/Dante_backround.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+  background-size: 100% 100%;
+  
+}
+.DInfo{
+    font-size: xx-large;
+    text-align: center;
+    background-color: #000000;
+}
+
+.column_middle{
+    font-size:xx-large ;
+    text-align: center;
+}
+
+.Heal_your_wounds{
+   display: flex;
+    float: left;
+    flex-direction: column;
+}
